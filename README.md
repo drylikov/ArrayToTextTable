@@ -11,6 +11,7 @@
 
 ## Installation
 
+
 ```
 composer require DenisRylikov/arraytotexttable
 ```
