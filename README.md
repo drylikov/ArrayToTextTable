@@ -39,6 +39,7 @@ composer require DenisRylikov/arraytotexttable
 
 
 
+
 ```php
 use MathieuViossat\Util\ArrayToTextTable;
 
