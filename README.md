@@ -19,6 +19,7 @@
 composer require DenisRylikov/arraytotexttable
 ```
 
+
 ```json
 {
     "require": {
