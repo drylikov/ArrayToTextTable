@@ -83,6 +83,7 @@ $renderer = new ArrayToTextTable($data);
 echo $renderer->getTable();
 ```
 
+
 ## Result
 
 ```
