@@ -84,6 +84,7 @@ echo $renderer->getTable();
 ```
 
 
+
 ## Result
 
 ```
