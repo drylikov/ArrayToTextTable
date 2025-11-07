@@ -38,6 +38,7 @@ composer require DenisRylikov/arraytotexttable
 ## Example
 
 
+
 ```php
 use MathieuViossat\Util\ArrayToTextTable;
 
